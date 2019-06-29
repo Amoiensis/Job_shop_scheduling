@@ -1,4 +1,4 @@
-%用于解决 Project4：Job shop scheduling
+%用于解决 Project：Job shop scheduling
 %文件分为4部分
 % 1. read_data.m     数据导入
 % 2. build_struct.m  数据预处理
